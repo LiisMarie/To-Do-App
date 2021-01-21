@@ -1,4 +1,6 @@
-# HW3 - Flutter - To-Do App
+# To-Do App
+
+To-Do App is written in Flutter for both Android and iOS.
 
 #### To-Do App is simple and awesome app to organize your tasks.
 
